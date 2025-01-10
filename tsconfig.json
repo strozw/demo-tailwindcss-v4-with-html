@@ -12,5 +12,5 @@
     "apps/",
     "packages/"
   ],
-  "include": ["src", ".storybook", "*.mjs", "*.ts"]
+  "include": ["src", ".storybook", ".*.mjs", "*.mjs", ".*.ts", "*.ts"]
 }

@@ -38,6 +38,8 @@
     "@storybook/test": "^8.4.7",
     "@tailwindcss/postcss": "0.0.0-development.1",
     "@tsconfig/strictest": "^2.0.5",
+    "prettier": "^3.4.2",
+    "prettier-plugin-tailwindcss": "^0.6.9",
     "storybook": "^8.4.7",
     "typescript": "^5.7.3"
   }
