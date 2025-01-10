@@ -1,0 +1,16 @@
+{
+  "extends": "@tsconfig/strictest/tsconfig.json",
+  "compilerOptions": {
+    "allowJs": true,
+    "noEmit": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler"
+  },
+  "exclude": [
+    "node_modules",
+    ".github/workflows/scripts",
+    "apps/",
+    "packages/"
+  ],
+  "include": ["src", ".storybook", "*.mjs", "*.ts"]
+}
