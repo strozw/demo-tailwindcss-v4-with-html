@@ -1,5 +1,6 @@
 {
-  "name": "demo-tailwindcss-v4",
+  "name": "demo-tailwindcss-v4-with-html",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "type": "module",
