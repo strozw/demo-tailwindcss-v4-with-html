@@ -1,6 +1,4 @@
 @import "tailwindcss";
 
-@source "./**/*.html";
-
 /* for legacy tailwind config */
 @config "../tailwind.config.ts";
