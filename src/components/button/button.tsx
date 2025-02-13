@@ -6,7 +6,7 @@ export type ButtonProps = ComponentProps<"button">;
 export const Button = ({ className, ...restProps }: ButtonProps) => (
   <button
     className={clsx(
-      "min-w-30 rounded-full bg-blue-600 p-2 text-white inset-ring inset-shadow-sm ring shadow-md ring-blue-600 inset-shadow-white/20 inset-ring-white/15 hover:bg-blue-500",
+      "min-w-30 rounded-full bg-green-600 p-2 text-white inset-ring inset-shadow-sm ring shadow-md ring-green-600 inset-shadow-white/20 inset-ring-white/15 hover:bg-green-500",
       className,
     )}
     {...restProps}
