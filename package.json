@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
-  "packageManager": "pnpm@10.11.0",
+  "packageManager": "pnpm@10.18.3",
   "main": "index.js",
   "imports": {
     "#*": [
@@ -24,32 +24,32 @@
   "license": "ISC",
   "dependencies": {
     "clsx": "^2.1.1",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
-    "@chromatic-com/storybook": "^4.0.0",
-    "@storybook/addon-docs": "^9.0.0",
-    "@storybook/addon-vitest": "^9.0.0",
-    "@storybook/html-vite": "^9.0.0",
+    "@biomejs/biome": "^2.2.6",
+    "@chromatic-com/storybook": "^4.1.1",
+    "@storybook/addon-docs": "^9.1.10",
+    "@storybook/addon-vitest": "^9.1.10",
+    "@storybook/html-vite": "^9.1.10",
     "@tailwindcss/cli": "4.1.8",
     "@tailwindcss/vite": "4.1.8",
-    "@tsconfig/strictest": "^2.0.5",
-    "@tsconfig/vite-react": "^6.3.5",
-    "@types/node": "^22.15.24",
-    "@types/react": "^19.1.6",
-    "@types/react-dom": "^19.1.5",
-    "@vitest/browser": "^3.1.4",
-    "@vitest/coverage-v8": "^3.1.4",
-    "chromatic": "^12.0.0",
-    "playwright": "^1.52.0",
-    "prettier": "^3.5.3",
-    "prettier-plugin-tailwindcss": "^0.6.11",
-    "storybook": "^9.0.0",
+    "@tsconfig/strictest": "^2.0.6",
+    "@tsconfig/vite-react": "^7.0.1",
+    "@types/node": "^22.18.10",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@vitest/browser": "^3.2.4",
+    "@vitest/coverage-v8": "^3.2.4",
+    "chromatic": "^13.3.0",
+    "playwright": "^1.56.0",
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.7.0",
+    "storybook": "^9.1.10",
     "tailwindcss": "4.1.8",
-    "typescript": "^5.8.3",
-    "vite": "^6.3.5",
-    "vitest": "^3.1.4"
+    "typescript": "^5.9.3",
+    "vite": "^6.3.7",
+    "vitest": "^3.2.4"
   }
 }
